@@ -15,21 +15,22 @@ This repository contains a simple Express.js application that serves as a calcul
 ## Installation
 
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/express-calculator-api.git
+
+```git clone https://github.com/your-username/express-calculator-api.git```
 
 
 2. Navigate to the project directory:
 
-cd express-calculator-api
+```cd express-calculator-api```
 
 3. Install the required dependencies:
 
-npm install express
+```npm install express```
 
 
 4. Start the server:
 
-npm start
+```npm start```
 
 
 
